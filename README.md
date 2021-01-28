@@ -1,5 +1,6 @@
 BomberTank is simple 2D tile
 
+![gameplay](https://github.com/xellzul/BomberTank/blob/master/examples/bomberman1.jpg?raw=true)
 
 Exmaple usage:
 ```bash
