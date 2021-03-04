@@ -1,4 +1,4 @@
-BomberTank is simple 2D tile
+BomberTank is simple 2D tiling Game
 
 ![gameplay](https://github.com/xellzul/BomberTank/blob/master/examples/bomberman1.jpg?raw=true)
 
